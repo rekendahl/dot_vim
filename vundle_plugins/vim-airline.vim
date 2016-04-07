@@ -3,7 +3,7 @@ if exists('g:vundle_installing_plugins')
   finish
 endif
 
-let g:airline_theme = 'base16_solarized'
+let g:airline_theme = 'base16_monokai'
 let g:airline_powerline_fonts = 1
 let g:airline_detect_modified = 1
 let g:airline#extensions#whitespace#enabled = 1
