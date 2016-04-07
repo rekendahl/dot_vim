@@ -54,6 +54,11 @@ nnoremap <silent> gj :WriteBufferIfNecessary<CR>:wincmd j<CR>
 nnoremap <silent> gk :WriteBufferIfNecessary<CR>:wincmd k<CR>
 nnoremap <silent> gl :WriteBufferIfNecessary<CR>:wincmd l<CR>
 
+nnoremap <silent> <C-h> :wincmd h<CR>
+nnoremap <silent> <C-j> :wincmd j<CR>
+nnoremap <silent> <C-k> :wincmd k<CR>
+nnoremap <silent> <C-l> :wincmd l<CR>
+
 "   4 Window Splits
 "
 "   -----------------
